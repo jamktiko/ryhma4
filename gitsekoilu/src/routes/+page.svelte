@@ -4,7 +4,7 @@
 
 <main>
 
-  <h1> TERVE </h1>
+  <h1> TERVE kaikille </h1>
 
 </main>
 
